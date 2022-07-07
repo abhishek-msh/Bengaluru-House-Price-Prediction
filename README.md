@@ -3,6 +3,7 @@ Bangalore House Price prediction on Kaggle BHP Dataset
 
 
 Build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com.
+
 Dataset link - https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 
 In this project, data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc. takes place.
