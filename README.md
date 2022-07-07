@@ -24,4 +24,5 @@ Steps:
 Steps to Run:
 1. run server.py
 2. open app.html
+
 ![image](https://user-images.githubusercontent.com/73299884/177831613-77604d19-8614-4c13-9ad7-87010399ae4b.png)
